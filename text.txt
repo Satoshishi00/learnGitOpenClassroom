@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nouveau hello
+=======
+hello everybody 
+>>>>>>> parent of d93dce7... commit en oubliant un fichier
