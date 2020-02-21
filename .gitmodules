@@ -1,0 +1,3 @@
+[submodule "patisserie"]
+	path = patisserie
+	url = https://github.com/Satoshishi00/patisserie.git
